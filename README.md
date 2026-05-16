@@ -9,20 +9,21 @@ Tabla hash en C++ y Java con carga de estudiantes desde CSV, operaciones básica
 . Estructura del proyecto
 
 tarea-hash-csv/
-│
-├── cpp-hash/
-│ ├── main.cpp
-│ └── estudiantes.csv
-│
-├── java-hashmap/
-│ ├── Main.java
-│ ├── Estudiante.java
-│ └── estudiantes.csv
-│
-├── evidencias/
-│ └── evidencia.pdf
-│
-└── README.md
+
+ cpp-hash/
+ main.cpp
+ estudiantes.csv
+
+ java-hashmap/
+ Main.java
+ Estudiante.java
+ estudiantes.csv
+
+ evidencias/
+ evidencia.pdf
+
+ README.md
+ 
 
 . Implementación en C++
 
